@@ -52,7 +52,7 @@ https://devicon.dev/
 --->
 <h2> Exposures <img src="https://user-images.githubusercontent.com/75291303/148883361-8462997e-2ba2-48cd-a950-620220ff09bb.gif" width=32px></h2>
 
-<a><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></a>
+<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></a>
 <a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><a>
 <a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/></a>
 <a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/></a>
