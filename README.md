@@ -11,6 +11,7 @@
 
 <!--
 Snake-eating contribution graph:
+https://youtu.be/MZT37vCQ-4Y
 https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
 
 Creating borders around (GitHub strips out CSS):
