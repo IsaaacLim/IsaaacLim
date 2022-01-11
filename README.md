@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 
 
 ![skills](https://user-images.githubusercontent.com/75291303/148883422-71bc42e0-ff75-4e63-886b-41f6a09c80e4.gif)
+
+
+![icons8-instagram](https://user-images.githubusercontent.com/75291303/148884663-923eb6b6-048d-4529-81f7-f5196232bffd.gif)
