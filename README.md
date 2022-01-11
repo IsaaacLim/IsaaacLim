@@ -3,7 +3,11 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Isaac Lim</h1>
-<h3 align="center">Student at 42KL, Malaysia.</h3>
+<h3 align="center">
+  <a>Student at</a> 
+  <a href="https://42kl.edu.my/">42KL</a>
+  <a>, Malaysia.</a>
+</h3>
 
 <!--
 Snake-eating contribution graph:
@@ -48,7 +52,7 @@ https://devicon.dev/
 --->
 <h2> Exposures <img src="https://user-images.githubusercontent.com/75291303/148883361-8462997e-2ba2-48cd-a950-620220ff09bb.gif" width=32px></h2>
 
-<a href="#" pointer-events="none"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></a>
+<a><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></a>
 <a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><a>
 <a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/></a>
 <a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/></a>
