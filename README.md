@@ -72,7 +72,7 @@ Social media icons:
 https://buffer.com/library/social-media-icons/
 --->
 <h2> Connect with me <img src="https://user-images.githubusercontent.com/75291303/148881839-962cd91a-4e09-4c00-9871-0ccdb71e4798.gif" width="100px"></h2>
-<a href="https://www.facebook.com/isaaacLim"><img width="36" alt="facebook" src="https://user-images.githubusercontent.com/75291303/148883071-b7e23004-4280-48b5-9960-e7bc39a02762.png"></a>
-<a href="https://www.linkedin.com/in/isaaclimjj/"><img width="36" alt="linkdin" src="https://user-images.githubusercontent.com/75291303/148882971-9c954f70-c48e-4485-92c6-b8722e200b7a.png"></a>
-<a href="https://www.instagram.com/isaaaclim/?hl=en"><img width="36" alt="instagram" src="https://user-images.githubusercontent.com/75291303/148883067-58ccbf5d-71fc-43e6-af78-01e258a63fc7.png"></a>
-<a href="https://github.com/IsaaacLim"><img width="36" alt="github" src="https://user-images.githubusercontent.com/75291303/148883180-5f60ae40-4eb8-4863-8239-e0f7a29955e0.png"></a>
+<a href="https://www.facebook.com/isaaacLim" target="_blank" rel="noopener noreferrer"><img width="36" alt="facebook" src="https://user-images.githubusercontent.com/75291303/148883071-b7e23004-4280-48b5-9960-e7bc39a02762.png"></a>
+<a href="https://www.linkedin.com/in/isaaclimjj/" target="_blank" rel="noopener noreferrer"><img width="36" alt="linkdin" src="https://user-images.githubusercontent.com/75291303/148882971-9c954f70-c48e-4485-92c6-b8722e200b7a.png"></a>
+<a href="https://www.instagram.com/isaaaclim/?hl=en" target="_blank" rel="noopener noreferrer"><img width="36" alt="instagram" src="https://user-images.githubusercontent.com/75291303/148883067-58ccbf5d-71fc-43e6-af78-01e258a63fc7.png"></a>
+<a href="https://github.com/IsaaacLim" target="_blank" rel="noopener noreferrer"><img width="36" alt="github" src="https://user-images.githubusercontent.com/75291303/148883180-5f60ae40-4eb8-4863-8239-e0f7a29955e0.png"></a>
