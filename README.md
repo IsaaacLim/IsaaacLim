@@ -43,6 +43,31 @@ https://newbedev.com/is-it-possible-to-add-border-to-image-in-github-markdown
 <br>
 
 <!---
+Programming language icons:
+https://devicon.dev/
+--->
+<h2> Exposures <img src="https://user-images.githubusercontent.com/75291303/148883361-8462997e-2ba2-48cd-a950-620220ff09bb.gif" width=32px></h2>
+
+<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></a>
+<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><a>
+<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/></a>
+<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/></a>
+<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/></a>
+<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
+<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
+<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
+<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
+<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
+<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg"/></a>
+<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></a>
+<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></a>
+<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/></a>
+<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
+<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
+<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
+
+<!---
 Social media icons:
 https://buffer.com/library/social-media-icons/
 --->
@@ -51,26 +76,3 @@ https://buffer.com/library/social-media-icons/
 <a href="https://www.linkedin.com/in/isaaclimjj/"><img width="36" alt="linkdin" src="https://user-images.githubusercontent.com/75291303/148882971-9c954f70-c48e-4485-92c6-b8722e200b7a.png"></a>
 <a href="https://www.instagram.com/isaaaclim/?hl=en"><img width="36" alt="instagram" src="https://user-images.githubusercontent.com/75291303/148883067-58ccbf5d-71fc-43e6-af78-01e258a63fc7.png"></a>
 <a href="https://github.com/IsaaacLim"><img width="36" alt="github" src="https://user-images.githubusercontent.com/75291303/148883180-5f60ae40-4eb8-4863-8239-e0f7a29955e0.png"></a>
-
-<!---
-Programming language icons:
-https://devicon.dev/
---->
-<h2> Skills <img src="https://user-images.githubusercontent.com/75291303/148883361-8462997e-2ba2-48cd-a950-620220ff09bb.gif" width=32px></h2>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/></a>
