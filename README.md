@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 <a href = 'https://www.linkedin.com/in/isaaclimjj/'> <img width="36" alt="linkdin" src="https://user-images.githubusercontent.com/75291303/148882971-9c954f70-c48e-4485-92c6-b8722e200b7a.png"> </a>
 <img width="36" alt="instagram" src="https://user-images.githubusercontent.com/75291303/148883067-58ccbf5d-71fc-43e6-af78-01e258a63fc7.png">
 <img width="36" alt="facebook" src="https://user-images.githubusercontent.com/75291303/148883071-b7e23004-4280-48b5-9960-e7bc39a02762.png">
+<img width="36" alt="github" src="https://user-images.githubusercontent.com/75291303/148883180-5f60ae40-4eb8-4863-8239-e0f7a29955e0.png">
+![skills](https://user-images.githubusercontent.com/75291303/148883361-8462997e-2ba2-48cd-a950-620220ff09bb.gif)
