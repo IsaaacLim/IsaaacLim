@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <img width="36" alt="facebook" src="https://user-images.githubusercontent.com/75291303/148883071-b7e23004-4280-48b5-9960-e7bc39a02762.png">
 <img width="36" alt="github" src="https://user-images.githubusercontent.com/75291303/148883180-5f60ae40-4eb8-4863-8239-e0f7a29955e0.png">
 ![skills](https://user-images.githubusercontent.com/75291303/148883361-8462997e-2ba2-48cd-a950-620220ff09bb.gif)
+![handshake](https://user-images.githubusercontent.com/75291303/148883413-308e4476-1f7d-4703-8730-8833664c4d3d.gif)
+![skills](https://user-images.githubusercontent.com/75291303/148883422-71bc42e0-ff75-4e63-886b-41f6a09c80e4.gif)
