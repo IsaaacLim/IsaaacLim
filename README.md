@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![handshake](https://user-images.githubusercontent.com/75291303/148881839-962cd91a-4e09-4c00-9871-0ccdb71e4798.gif)
+
+<h2> Connect with me <img src = 'https://user-images.githubusercontent.com/75291303/148881839-962cd91a-4e09-4c00-9871-0ccdb71e4798.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/isaaclimjj/'>
+<img width="48" alt="linkdin" src="https://user-images.githubusercontent.com/75291303/148882831-ba604a2b-3dfb-49da-9c9a-a1bc367821b3.png">
+<img width="128" alt="linkdin" src="https://user-images.githubusercontent.com/75291303/148882884-04d02125-d204-4ec3-820c-4823c251f808.png">
+<img width="64" alt="linkdin" src="https://user-images.githubusercontent.com/75291303/148882901-a6de8391-e4bd-4c4b-9330-0e7a6504b64d.png">
