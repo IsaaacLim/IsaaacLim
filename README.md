@@ -3,7 +3,9 @@ Snake-eating contribution graph source:
 https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
 -->
 
+<kbd>
 ![snake svg](https://github.com/IsaaacLim/IsaaacLim/blob/output/github-contribution-grid-snake.svg)
+</kbd>
 
 <kbd>
 <p>what is Database</p>
