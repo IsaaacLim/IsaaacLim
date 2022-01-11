@@ -6,10 +6,11 @@ https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-f
 ![snake svg](https://github.com/IsaaacLim/IsaaacLim/blob/output/github-contribution-grid-snake.svg)
 
 <style>
-  mark{
+ mark{
   color: red;
   }
-  </style>
+</style>
+  
  <mark>what is Database</mark>
 
 ### Hi there 👋
