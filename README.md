@@ -1,8 +1,10 @@
+<h1 align="center">Hi 👋, I'm Isaac Lim</h1>
+<h3 align="center">Student at 42KL, Malaysia.</h3>
+
 <!--
 Snake-eating contribution graph source:
 https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
 -->
-
 ---
 ![snake svg](https://github.com/IsaaacLim/IsaaacLim/blob/output/github-contribution-grid-snake.svg)
 ---
@@ -12,7 +14,7 @@ https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-f
 <p>what is Database</p>
 </kbd>
 
-### Hi there 👋
+### Hi there 
 
 <!--
 **IsaaacLim/IsaaacLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
