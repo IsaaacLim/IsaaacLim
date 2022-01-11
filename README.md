@@ -30,13 +30,17 @@ https://newbedev.com/is-it-possible-to-add-border-to-image-in-github-markdown
 <br>
 <br>
 <br>
-<br>
 
 - 🥩 Currently learning **computer science**
+
 - 🍊 Target Industry: **???**
+
 - 🧀 Interested in **Software Development**
+
 - 🥑 I’m currently working on **ft_container**
-- 🧊 Graduated with a **B.S. in Chemical Engineering**
+
+- 🧊 Graduated with a **B.S. in ChemEng**
+
 - 🍇 Area of interest: **Design, badminton, volleyball, roller coaster**
 
 <br>
