@@ -1,3 +1,5 @@
+![snake svg](https://github.com/IsaaacLim/IsaaacLim/blob/output/github-contribution-grid-snake.svg)
+
 ### Hi there 👋
 
 <!--
@@ -25,10 +27,6 @@ Here are some ideas to get you started:
 ![skills](https://user-images.githubusercontent.com/75291303/148883361-8462997e-2ba2-48cd-a950-620220ff09bb.gif)
 
 
-![handshake](https://user-images.githubusercontent.com/75291303/148883413-308e4476-1f7d-4703-8730-8833664c4d3d.gif)
-
-
-![skills](https://user-images.githubusercontent.com/75291303/148883422-71bc42e0-ff75-4e63-886b-41f6a09c80e4.gif)
 
 
 ![icons8-instagram](https://user-images.githubusercontent.com/75291303/148884663-923eb6b6-048d-4529-81f7-f5196232bffd.gif)
