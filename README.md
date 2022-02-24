@@ -53,24 +53,25 @@ https://devicon.dev/
 --->
 <h2> Exposures <img src="https://user-images.githubusercontent.com/75291303/148883361-8462997e-2ba2-48cd-a950-620220ff09bb.gif" width=32px></h2>
 
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
-<a href="#"><img width="36" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
+<a href="#"><img width="36" alt="c logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></a>
+<a href="#"><img width="36" alt="c++ logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><a>
+<a href="#"><img width="36" alt="bash logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/></a>
+<a href="#"><img width="36" alt="ubuntu logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/></a>
+<a href="#"><img width="36" alt="vim logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/></a>
+<a href="#"><img width="36" alt="git logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
+<a href="#"><img width="36" alt="vscode logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
+<a href="#"><img width="36" alt="html logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
+<a href="#"><img width="36" alt="css logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
+<a href="#"><img width="36" alt="javascript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+<a href="#"><img width="36" alt="typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></a>
+<a href="#"><img width="36" alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
+<a href="#"><img width="36" alt="gatsby logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg"/></a>
+<a href="#"><img width="36" alt="vue logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></a>
+<a href="#"><img width="36" alt="figma logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></a>
+<a href="#"><img width="36" alt="wordpress logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/></a>
+<a href="#"><img width="36" alt="python logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
+<a href="#"><img width="36" alt="docker logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
+<a href="#"><img width="36" alt="github logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
 
 <!---
 Social media icons:
