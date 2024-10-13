@@ -5,8 +5,8 @@
 <h1 align="center">Hi 👋, I'm Isaac Lim</h1>
 <h3 align="center">
   <a>Student at</a> 
-  <a href="https://42kl.edu.my/">42KL</a>
-  <a>, Malaysia.</a>
+  <a href="https://www.ecu.edu.au/">ECU</a>
+  <a>, Australia.</a>
 </h3>
 
 <!--
